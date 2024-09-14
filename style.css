@@ -6,6 +6,26 @@
 
 }
 
+.navbar-div {
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+background-color: #84878a;
+border-radius: 8px;
+height: 55px;
+
+margin-top: 25px;
+}
+
+.btn {
+    text-decoration: none;
+    color: #d02855;
+    padding: 5px;
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.321);
+}
 
 .para-div {
     color: black;
